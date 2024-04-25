@@ -1,4 +1,4 @@
-#DoWhy¶
+# DoWhy
 In this notebook, we are going to be using the DoWhy python library which allows us to do causal inference in a few simple lines of code. According to the documentation:
 
 While many methods exist for causal inference, it is hard to compare their assumptions and robustness of results. DoWhy makes three contributions,
